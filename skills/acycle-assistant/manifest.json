@@ -1,0 +1,15 @@
+{
+  "name": "acycle-assistant",
+  "version": "0.1.0",
+  "generated_for": "codex",
+  "generated_date": "2026-06-17",
+  "repository_name": "Acycle-assistant-skills-codex",
+  "packaging": {
+    "type": "single_skill",
+    "entrypoint": "skills/acycle-assistant/SKILL.md"
+  },
+  "notes": [
+    "This is an unofficial Codex helper skill for Acycle-oriented workflows.",
+    "The repository intentionally excludes Acycle binaries, manuals, screenshots, and bundled third-party assets."
+  ]
+}

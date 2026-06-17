@@ -1,0 +1,5 @@
+interface:
+  display_name: "Acycle Assistant"
+  short_description: "Guide Acycle workflows and prepare series for analysis."
+  brand_color: "#0F766E"
+  default_prompt: "Use $acycle-assistant to prepare my time-series data and plan an Acycle analysis workflow."
